@@ -8,3 +8,23 @@
 //      www.alifaraji.ir
 //      Contact@alifaraji.ir 
 */
+body{
+    font-family: Vazir;
+}
+.main{
+    direction: rtl;
+}
+.colheader{
+    padding: 5px;
+    background-color: #F69;
+    text-align: center;
+    margin-bottom: 4px;
+}
+.planItem{
+    text-align: right;
+    padding: 2px;
+    background-color: #CCC;
+}
+.ctime{
+    text-align: center;
+}
